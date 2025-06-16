@@ -1,0 +1,45 @@
+# Build directories
+bin/
+obj/
+
+# VS files
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.generated.cs
+
+# Packages
+packages/
+*.nupkg
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Rider IDE files (voor het geval je die ook gebruikt)
+.idea/
+
+# Test results
+TestResults/
+
+# Coverage results
+coverage*
+
+# Publish output
+publish/
+
+# Resharper files
+_ReSharper*/
+
+# DotCover files
+*.dotCover
+
+# Visual Studio Code settings (indien ook gebruikt)
+.vscode/
